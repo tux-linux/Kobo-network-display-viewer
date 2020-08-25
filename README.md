@@ -9,4 +9,4 @@ I resume:
 <br></br><b>1.</b> Download the script here on GitHub or at Mobileread.
 <br></br><b>2.</b> Install NiLuJe's excellent FBInk and SSH bundle for Kobos here: https://www.mobileread.com/forums/showthread.php?t=254214
 <br></br><b>3.</b> Hook up your Kobo to a WiFi network or via USBNet and write down its IP address.
-<br></br><b>4.</b> In your Linux computer (that is connected to the Internet), type './vnc.sh' on a terminal. Write the IP and resolution information of your Kobo and you're good to go!
+<br></br><b>4.</b> In your Linux computer (that is connected to the Internet), type './kobodisplay.sh' on a terminal. Write the IP and resolution information of your Kobo and you're good to go!
