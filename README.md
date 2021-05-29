@@ -1,7 +1,7 @@
 # Kobo-network-display-viewer
 A way to use your Kobo to display the screen of your computer on it.
 
-I had an idea an evening of August. I've thought that I could use NiLuJe's excellent FBInk library to display the screen of a computer on a recent Kobo device. I ended up finishing a program in 3 hours that replaced continuously live screenshots of the screen via SCP on the /tmp directory of a Kobo device. FBInk would then display the image, over and over as it gets replaced. That works well, except that it's *very* slow. I plan to improve it very soon.
+I had an idea an evening of August. I've thought that I could use NiLuJe's excellent FBInk library to display the screen of a computer on a recent Kobo device. I ended up finishing a program in 3 hours that replaced continuously live screenshots of the screen via SCP on the /tmp directory of a Kobo device. FBInk would then display the image, over and over as it gets replaced. That works well, except that it's *very* slow.
 
 ## Installation
 Install instructions are here: https://www.mobileread.com/forums/showthread.php?t=332585
